@@ -21,13 +21,13 @@ namespace ShopManegement.Application
         {
             var operation = new OperationResult();
             if (_iProductCategoryRepository.Exists(x => x.Name == command.Name))
-                return operation.Failed("امکان ثبت رکورد تکراری وجود ندارد.");
+                return operation.Failed(ApplicationMessages.DuplicatedRecord);
 
             var slug = command.Slug.Slugify();
             var productcategory = new ProductCategory(command.Name, command.Description, command.Picture, command.PictureAlt, command.PictureTitle, command.Keywords, command.MetaDescription, slug);
             _iProductCategoryRepository.Create(productcategory);
             _iProductCategoryRepository.Save();
-            return operation.Succedded();
+            return operation.Succeeded();
         }
 
         public OperationResult Edit(EditProductCategory command)
@@ -35,16 +35,21 @@ namespace ShopManegement.Application
             var operation = new OperationResult();
             var productcategory = _iProductCategoryRepository.Get(command.Id);
             if (productcategory == null)
-                return operation.Failed("رکورد مورد نظر وجود ندارد");
+                return operation.Failed(ApplicationMessages.RecordNotFound);
 
             if(_iProductCategoryRepository.Exists(x=> x.Name == command.Name && x.Id != x.Id ))
-                return operation.Failed("امکان ثبت رکورد تکراری وجود ندارد.");
+                return operation.Failed(ApplicationMessages.DuplicatedRecord);
 
             var slug = command.Slug.Slugify();
             productcategory.Edit(command.Name,command.Description,command.Picture,command.PictureAlt,command.PictureTitle,command.Keywords,command.MetaDescription, slug);
 
             _iProductCategoryRepository.Save();
-            return operation.Succedded();
+            return operation.Succeeded();
+        }
+
+        public List<ProductCategoryViewModel> GetProductCategories()
+        {
+            return _iProductCategoryRepository.GetProductCategories();
         }
 
         public EditProductCategory GetDetails(long id)
