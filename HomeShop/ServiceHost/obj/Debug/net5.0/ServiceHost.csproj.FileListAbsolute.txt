@@ -172,3 +172,6 @@ G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\obj\Debug
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Create.cshtml.g.cs
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Edit.cshtml.g.cs
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Index.cshtml.g.cs
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\bin\Debug\net5.0\01_HomeShopQuery.dll
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\bin\Debug\net5.0\01_HomeShopQuery.pdb
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Slide\Default.cshtml.g.cs

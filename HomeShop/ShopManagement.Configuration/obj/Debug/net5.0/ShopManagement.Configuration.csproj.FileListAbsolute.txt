@@ -21,3 +21,5 @@ G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Config
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.dll
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Configuration\obj\Debug\net5.0\ref\ShopManagement.Configuration.dll
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.pdb
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Configuration\bin\Debug\net5.0\01_HomeShopQuery.dll
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Configuration\bin\Debug\net5.0\01_HomeShopQuery.pdb

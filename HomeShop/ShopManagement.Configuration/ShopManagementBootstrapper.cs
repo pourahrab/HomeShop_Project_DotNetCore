@@ -4,6 +4,8 @@ using ShopManagement.Domain.ProductCategoryAgg;
 using ShopManagement.Infrastructure.EFCore.Repository;
 using ShopManegement.Application;
 using System;
+using _01_HomeShopQuery.Contracts.Slide;
+using _01_HomeShopQuery.Query;
 using Microsoft.EntityFrameworkCore;
 using ShopManagement.Application.Contracts.Product;
 using ShopManagement.Application.Contracts.ProductPicture;
@@ -12,6 +14,7 @@ using ShopManagement.Domain.ProductAgg;
 using ShopManagement.Domain.ProductPictureAgg;
 using ShopManagement.Domain.SliderAgg;
 using ShopManagement.Infrastructure.EFCore;
+
 
 namespace ShopManagement.Configuration
 {
@@ -30,6 +33,8 @@ namespace ShopManagement.Configuration
 
             services.AddTransient<ISlideApplication, SlideApplication>();
             services.AddTransient<ISlideRepository, SlideRepository>();
+
+            services.AddTransient<ISlideQuery, SlideQuery>();
 
 
             services.AddDbContext<ShopContext>(x=>x.UseSqlServer(connectionString));

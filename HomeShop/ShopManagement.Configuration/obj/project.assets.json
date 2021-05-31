@@ -1482,6 +1482,19 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "01_HomeShopQuery/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "ShopManagement.Infrastructure.EFCore": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/01_HomeShopQuery.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/01_HomeShopQuery.dll": {}
+        }
+      },
       "0_Framework/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -5715,6 +5728,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "01_HomeShopQuery/1.0.0": {
+      "type": "project",
+      "path": "../01_HomeShopQuery/01_HomeShopQuery.csproj",
+      "msbuildProject": "../01_HomeShopQuery/01_HomeShopQuery.csproj"
+    },
     "0_Framework/1.0.0": {
       "type": "project",
       "path": "../0_Framework/0_Framework.csproj",
@@ -5743,6 +5761,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "01_HomeShopQuery >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 5.0.0",
       "ShopManagement.Application.Contracts >= 1.0.0",
       "ShopManagement.Infrastructure.EFCore >= 1.0.0",
@@ -5782,6 +5801,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "G:\\PROJECT\\.net core\\HomeShop_Project_Folder\\Code\\HomeShop\\01_HomeShopQuery\\01_HomeShopQuery.csproj": {
+              "projectPath": "G:\\PROJECT\\.net core\\HomeShop_Project_Folder\\Code\\HomeShop\\01_HomeShopQuery\\01_HomeShopQuery.csproj"
+            },
             "G:\\PROJECT\\.net core\\HomeShop_Project_Folder\\Code\\HomeShop\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
               "projectPath": "G:\\PROJECT\\.net core\\HomeShop_Project_Folder\\Code\\HomeShop\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
             },
