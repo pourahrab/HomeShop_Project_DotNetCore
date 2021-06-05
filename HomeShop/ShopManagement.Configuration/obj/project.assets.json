@@ -5762,6 +5762,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "01_HomeShopQuery >= 1.0.0",
+      "Microsoft.EntityFrameworkCore >= 5.0.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 5.0.0",
       "ShopManagement.Application.Contracts >= 1.0.0",
       "ShopManagement.Infrastructure.EFCore >= 1.0.0",
@@ -5826,6 +5827,10 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[5.0.0, )"
+          },
           "Microsoft.Extensions.DependencyInjection.Abstractions": {
             "target": "Package",
             "version": "[5.0.0, )"
