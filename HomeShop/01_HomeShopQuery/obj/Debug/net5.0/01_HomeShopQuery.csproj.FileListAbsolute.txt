@@ -10,7 +10,6 @@ G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\01_HomeShopQuery\bin\
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\01_HomeShopQuery\bin\Debug\net5.0\0_Framework.pdb
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\01_HomeShopQuery\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\01_HomeShopQuery\bin\Debug\net5.0\ShopManagement.Domain.pdb
-G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\01_HomeShopQuery\obj\Debug\net5.0\01_HomeShopQuery.csprojAssemblyReference.cache
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\01_HomeShopQuery\obj\Debug\net5.0\01_HomeShopQuery.GeneratedMSBuildEditorConfig.editorconfig
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\01_HomeShopQuery\obj\Debug\net5.0\01_HomeShopQuery.AssemblyInfoInputs.cache
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\01_HomeShopQuery\obj\Debug\net5.0\01_HomeShopQuery.AssemblyInfo.cs
@@ -19,3 +18,4 @@ G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\01_HomeShopQuery\obj\
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\01_HomeShopQuery\obj\Debug\net5.0\01_HomeShopQuery.dll
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\01_HomeShopQuery\obj\Debug\net5.0\ref\01_HomeShopQuery.dll
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\01_HomeShopQuery\obj\Debug\net5.0\01_HomeShopQuery.pdb
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\01_HomeShopQuery\obj\Debug\net5.0\01_HomeShopQuery.csproj.AssemblyReference.cache

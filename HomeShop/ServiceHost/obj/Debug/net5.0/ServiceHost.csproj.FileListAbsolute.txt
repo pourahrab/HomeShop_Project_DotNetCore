@@ -49,7 +49,6 @@ G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\bin\Debug
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\bin\Debug\net5.0\ShopManagement.Domain.pdb
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\bin\Debug\net5.0\ShopManegement.Application.pdb
-G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\obj\Debug\net5.0\ServiceHost.csprojAssemblyReference.cache
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\obj\Debug\net5.0\ServiceHost.GeneratedMSBuildEditorConfig.editorconfig
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\obj\Debug\net5.0\ServiceHost.AssemblyInfoInputs.cache
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\obj\Debug\net5.0\ServiceHost.AssemblyInfo.cs
@@ -190,3 +189,7 @@ G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\bin\Debug
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\CustomerDiscount\Create.cshtml.g.cs
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\CustomerDiscount\Edit.cshtml.g.cs
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\CustomerDiscount\Index.cshtml.g.cs
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\obj\Debug\net5.0\ServiceHost.csproj.AssemblyReference.cache
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\ColleagueDiscount\Create.cshtml.g.cs
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\ColleagueDiscount\Edit.cshtml.g.cs
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\ColleagueDiscount\Index.cshtml.g.cs

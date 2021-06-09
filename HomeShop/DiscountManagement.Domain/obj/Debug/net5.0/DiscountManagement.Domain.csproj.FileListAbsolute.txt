@@ -6,7 +6,6 @@ G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Do
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Domain\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Domain\bin\Debug\net5.0\0_Framework.pdb
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Domain\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
-G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.csprojAssemblyReference.cache
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.AssemblyInfoInputs.cache
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.AssemblyInfo.cs
@@ -17,3 +16,4 @@ G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Do
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.pdb
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.csproj.AssemblyReference.cache

@@ -41,7 +41,8 @@ namespace DiscountManagement.Infrastructure.EFCore.Repository
                 Id = x.Id,
                 CreationDate = x.CreationDate.ToFarsi(),
                 DiscountRate = x.DiscountRate,
-                ProductId = x.ProductId
+                ProductId = x.ProductId,
+                IsRemoverd = x.IsRemoved
             });
             if (searchModel.ProductId > 0)
             {

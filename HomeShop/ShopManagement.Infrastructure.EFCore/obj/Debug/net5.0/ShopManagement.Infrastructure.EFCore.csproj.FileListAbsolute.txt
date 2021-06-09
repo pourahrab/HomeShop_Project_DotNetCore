@@ -10,7 +10,6 @@ G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Infras
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Domain.pdb
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\0_Framework.pdb
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
-G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.csprojAssemblyReference.cache
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.AssemblyInfoInputs.cache
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.AssemblyInfo.cs
@@ -20,3 +19,4 @@ G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Infras
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ref\ShopManagement.Infrastructure.EFCore.dll
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.genruntimeconfig.cache
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.csproj.AssemblyReference.cache
