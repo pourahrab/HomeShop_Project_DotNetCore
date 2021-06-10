@@ -193,3 +193,13 @@ G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\obj\Debug
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\ColleagueDiscount\Create.cshtml.g.cs
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\ColleagueDiscount\Edit.cshtml.g.cs
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\ColleagueDiscount\Index.cshtml.g.cs
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\bin\Debug\net5.0\InventoryManagement.Domain.dll
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\bin\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.dll
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.dll
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\bin\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.pdb
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\bin\Debug\net5.0\InventoryManagement.Domain.pdb
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.pdb
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.dll
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.pdb

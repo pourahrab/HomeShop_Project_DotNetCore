@@ -9,7 +9,7 @@ namespace InventoryManagement.Application.Contract.Inventory
 {
     public interface IInventoryApplication
     {
-        OperationResult Create(CreateInventory commadn);
+        OperationResult Create(CreateInventory command);
         OperationResult Edit(EditInventory command);
         OperationResult Increase(IncreaseInventory command);
         OperationResult Reduce(ReduceInventory command);
