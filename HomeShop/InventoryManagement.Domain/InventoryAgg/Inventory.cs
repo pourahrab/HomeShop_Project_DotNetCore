@@ -26,26 +26,26 @@ namespace InventoryManagement.Domain.InventoryAgg
             UnitPrice = unitPrice;
         }
 
-        public long CalculateCurrentCount()  // mohasebe mojodi feeli anbar
+        public long CalculateCurrentCount()
         {
-            var plus = Operations.Where(x => x.Operation).Sum(x => x.Count); // sum where operation is true = vorodi
-            var minus = Operations.Where(x => !x.Operation).Min(x => x.Count); // minus where operation is false = khoroji
+            var plus = Operations.Where(x => x.Operation).Sum(x => x.Count); 
+            var minus = Operations.Where(x => !x.Operation).Sum(x => x.Count); 
             return plus - minus;
         }
 
         public void Increase(long count, long operatorId, string description)
         {
-            var currentcount = CalculateCurrentCount() + count;
-            var operation = new InventoryOperation(true,count,operatorId, currentcount, description, 0, Id);
+            var currentCount = CalculateCurrentCount() + count;
+            var operation = new InventoryOperation(true,count,operatorId, currentCount, description, 0, Id);
             this.Operations.Add(operation);
-            IsStock = currentcount > 0;  // if(currentcount>0) ==> IsStock = true  else(IsStock=false)
+            IsStock = currentCount > 0;  // if(currentcount>0) ==> IsStock = true  else(IsStock=false)
         }
         public void Reduce(long count, long operatorId, string description, long orderId)
         {
-            var currentcount = CalculateCurrentCount() - count;
-            var operation = new InventoryOperation(false, count, operatorId, currentcount, description, orderId, Id);
+            var currentCount = CalculateCurrentCount() - count;
+            var operation = new InventoryOperation(false, count, operatorId, currentCount, description, orderId, Id);
             this.Operations.Add(operation);
-            IsStock = currentcount > 0;  // if(currentcount>0) ==> IsStock = true  else(IsStock=false)
+            IsStock = currentCount > 0;  // if(currentcount > 0) ==> IsStock = true  else(IsStock=false)
         }
     }
 }

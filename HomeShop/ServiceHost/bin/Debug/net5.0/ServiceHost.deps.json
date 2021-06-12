@@ -34,7 +34,7 @@
       "ServiceHost/1.0.0": {
         "dependencies": {
           "DiscountManagement.Configuration": "1.0.0",
-          "InventoryManagement.Infrastructure.Configuration": "1.0.0",
+          "InventoryManagement.Configuration": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "5.0.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "5.0.2",
           "ShopManagement.Configuration": "1.0.0",
@@ -1896,13 +1896,28 @@
       },
       "InventoryManagement.Application.Contract/1.0.0": {
         "dependencies": {
-          "0_Framework": "1.0.0"
+          "0_Framework": "1.0.0",
+          "ShopManagement.Application.Contracts": "1.0.0"
         },
         "runtime": {
           "InventoryManagement.Application.Contract.dll": {}
         },
         "compile": {
           "InventoryManagement.Application.Contract.dll": {}
+        }
+      },
+      "InventoryManagement.Configuration/1.0.0": {
+        "dependencies": {
+          "InventoryManagement.Application": "1.0.0",
+          "InventoryManagement.Domain": "1.0.0",
+          "InventoryManagement.Infrastructure.EFCore": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0"
+        },
+        "runtime": {
+          "InventoryManagement.Configuration.dll": {}
+        },
+        "compile": {
+          "InventoryManagement.Configuration.dll": {}
         }
       },
       "InventoryManagement.Domain/1.0.0": {
@@ -1915,20 +1930,6 @@
         },
         "compile": {
           "InventoryManagement.Domain.dll": {}
-        }
-      },
-      "InventoryManagement.Infrastructure.Configuration/1.0.0": {
-        "dependencies": {
-          "InventoryManagement.Application": "1.0.0",
-          "InventoryManagement.Domain": "1.0.0",
-          "InventoryManagement.Infrastructure.EFCore": "1.0.0",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0"
-        },
-        "runtime": {
-          "InventoryManagement.Infrastructure.Configuration.dll": {}
-        },
-        "compile": {
-          "InventoryManagement.Infrastructure.Configuration.dll": {}
         }
       },
       "InventoryManagement.Infrastructure.EFCore/1.0.0": {
@@ -4621,12 +4622,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "InventoryManagement.Domain/1.0.0": {
+    "InventoryManagement.Configuration/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "InventoryManagement.Infrastructure.Configuration/1.0.0": {
+    "InventoryManagement.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

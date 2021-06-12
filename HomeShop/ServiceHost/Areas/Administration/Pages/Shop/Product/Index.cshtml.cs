@@ -1,7 +1,4 @@
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -61,27 +58,7 @@ namespace ServiceHost.Areas.Administration.Pages.Shop.Product
             return new JsonResult(result);
         }
 
-        public IActionResult OnGetNotInStock(long id)
-        {
-           var result =  _productApplication.NotInStock(id);
-           if (result.IsSucceeded)
-           {
-               return RedirectToPage("./Index");
-           }
 
-           Message = result.Message;
-           return RedirectToPage("./index");
-        }
-        public IActionResult OnGetIsStock(long id)
-        {
-            var result = _productApplication.IsStock(id);
-            if (result.IsSucceeded)
-            {
-                return RedirectToPage("./Index");
-            }
-
-            Message = result.Message;
-            return RedirectToPage("./index");
-        }
+ 
     }
 }

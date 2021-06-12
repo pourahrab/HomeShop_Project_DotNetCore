@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4iCk2dhCmTmJHzHeun5QsmRjJG2bmgPq7k5C+WJ6l/2+aTZFEo8PYs4k2JTsfBsp+tLiRQt4CfhgM3Y2BwdbkA==",
+  "dgSpecHash": "mWjX65Lqd/nsgc10tQY9VAWfYv8x7cCReH8kQQ4UYmMskdcmr0eFvWmKRd0s6l7g6PqEfNYTg0liT1+K8Psitw==",
   "success": true,
   "projectFilePath": "G:\\PROJECT\\.net core\\HomeShop_Project_Folder\\Code\\HomeShop\\InventoryManagement.Infrastructure.EFCore\\InventoryManagement.Infrastructure.EFCore.csproj",
   "expectedPackageFiles": [

@@ -16,6 +16,7 @@ G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.In
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Domain.pdb
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.csproj.AssemblyReference.cache
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.AssemblyInfoInputs.cache
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.AssemblyInfo.cs
@@ -25,4 +26,3 @@ G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.In
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\ref\DiscountManagement.Infrastructure.EFCore.dll
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.genruntimeconfig.cache
-G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.csproj.AssemblyReference.cache

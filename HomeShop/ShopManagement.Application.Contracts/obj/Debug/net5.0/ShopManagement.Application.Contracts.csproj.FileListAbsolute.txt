@@ -4,6 +4,7 @@ G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Applic
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.dll
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.pdb
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.csproj.AssemblyReference.cache
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.AssemblyInfoInputs.cache
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.AssemblyInfo.cs
@@ -12,4 +13,3 @@ G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Applic
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.dll
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Application.Contracts\obj\Debug\net5.0\ref\ShopManagement.Application.Contracts.dll
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.pdb
-G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.csproj.AssemblyReference.cache

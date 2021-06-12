@@ -100,6 +100,9 @@
             "projectReferences": {
               "G:\\PROJECT\\.net core\\HomeShop_Project_Folder\\Code\\HomeShop\\0_Framework\\0_Framework.csproj": {
                 "projectPath": "G:\\PROJECT\\.net core\\HomeShop_Project_Folder\\Code\\HomeShop\\0_Framework\\0_Framework.csproj"
+              },
+              "G:\\PROJECT\\.net core\\HomeShop_Project_Folder\\Code\\HomeShop\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "G:\\PROJECT\\.net core\\HomeShop_Project_Folder\\Code\\HomeShop\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               }
             }
           }

@@ -6,6 +6,7 @@ G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Domain
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Domain\bin\Debug\net5.0\0_Framework.pdb
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.csproj.AssemblyReference.cache
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.AssemblyInfoInputs.cache
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.AssemblyInfo.cs
@@ -14,4 +15,3 @@ G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Domain
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.dll
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Domain\obj\Debug\net5.0\ref\ShopManagement.Domain.dll
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.pdb
-G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.csproj.AssemblyReference.cache

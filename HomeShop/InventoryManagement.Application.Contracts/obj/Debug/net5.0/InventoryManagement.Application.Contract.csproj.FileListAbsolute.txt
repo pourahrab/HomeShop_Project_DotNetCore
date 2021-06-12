@@ -3,7 +3,9 @@ G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\InventoryManagement.A
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\InventoryManagement.Application.Contracts\bin\Debug\net5.0\ref\InventoryManagement.Application.Contract.dll
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\InventoryManagement.Application.Contracts\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\InventoryManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.dll
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\InventoryManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\InventoryManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.pdb
+G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\InventoryManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\InventoryManagement.Application.Contracts\obj\Debug\net5.0\InventoryManagement.Application.Contract.csproj.AssemblyReference.cache
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\InventoryManagement.Application.Contracts\obj\Debug\net5.0\InventoryManagement.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
 G:\PROJECT\.net core\HomeShop_Project_Folder\Code\HomeShop\InventoryManagement.Application.Contracts\obj\Debug\net5.0\InventoryManagement.Application.Contract.AssemblyInfoInputs.cache

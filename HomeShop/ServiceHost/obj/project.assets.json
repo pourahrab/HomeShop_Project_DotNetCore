@@ -2117,13 +2117,30 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "0_Framework": "1.0.0"
+          "0_Framework": "1.0.0",
+          "ShopManagement.Application.Contracts": "1.0.0"
         },
         "compile": {
           "bin/placeholder/InventoryManagement.Application.Contract.dll": {}
         },
         "runtime": {
           "bin/placeholder/InventoryManagement.Application.Contract.dll": {}
+        }
+      },
+      "InventoryManagement.Configuration/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "InventoryManagement.Application": "1.0.0",
+          "InventoryManagement.Domain": "1.0.0",
+          "InventoryManagement.Infrastructure.EFCore": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0"
+        },
+        "compile": {
+          "bin/placeholder/InventoryManagement.Configuration.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InventoryManagement.Configuration.dll": {}
         }
       },
       "InventoryManagement.Domain/1.0.0": {
@@ -2138,22 +2155,6 @@
         },
         "runtime": {
           "bin/placeholder/InventoryManagement.Domain.dll": {}
-        }
-      },
-      "InventoryManagement.Infrastructure.Configuration/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "InventoryManagement.Application": "1.0.0",
-          "InventoryManagement.Domain": "1.0.0",
-          "InventoryManagement.Infrastructure.EFCore": "1.0.0",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0"
-        },
-        "compile": {
-          "bin/placeholder/InventoryManagement.Infrastructure.Configuration.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/InventoryManagement.Infrastructure.Configuration.dll": {}
         }
       },
       "InventoryManagement.Infrastructure.EFCore/1.0.0": {
@@ -7344,15 +7345,15 @@
       "path": "../InventoryManagement.Application.Contracts/InventoryManagement.Application.Contract.csproj",
       "msbuildProject": "../InventoryManagement.Application.Contracts/InventoryManagement.Application.Contract.csproj"
     },
+    "InventoryManagement.Configuration/1.0.0": {
+      "type": "project",
+      "path": "../InventoryManagement.Configuration/InventoryManagement.Configuration.csproj",
+      "msbuildProject": "../InventoryManagement.Configuration/InventoryManagement.Configuration.csproj"
+    },
     "InventoryManagement.Domain/1.0.0": {
       "type": "project",
       "path": "../InventoryManagement.Domain/InventoryManagement.Domain.csproj",
       "msbuildProject": "../InventoryManagement.Domain/InventoryManagement.Domain.csproj"
-    },
-    "InventoryManagement.Infrastructure.Configuration/1.0.0": {
-      "type": "project",
-      "path": "../InventoryManagement.Infrastructure.Configuration/InventoryManagement.Infrastructure.Configuration.csproj",
-      "msbuildProject": "../InventoryManagement.Infrastructure.Configuration/InventoryManagement.Infrastructure.Configuration.csproj"
     },
     "InventoryManagement.Infrastructure.EFCore/1.0.0": {
       "type": "project",
@@ -7388,7 +7389,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "DiscountManagement.Configuration >= 1.0.0",
-      "InventoryManagement.Infrastructure.Configuration >= 1.0.0",
+      "InventoryManagement.Configuration >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 5.0.2",
       "ShopManagement.Configuration >= 1.0.0"
@@ -7430,8 +7431,8 @@
             "G:\\PROJECT\\.net core\\HomeShop_Project_Folder\\Code\\HomeShop\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj": {
               "projectPath": "G:\\PROJECT\\.net core\\HomeShop_Project_Folder\\Code\\HomeShop\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj"
             },
-            "G:\\PROJECT\\.net core\\HomeShop_Project_Folder\\Code\\HomeShop\\InventoryManagement.Infrastructure.Configuration\\InventoryManagement.Infrastructure.Configuration.csproj": {
-              "projectPath": "G:\\PROJECT\\.net core\\HomeShop_Project_Folder\\Code\\HomeShop\\InventoryManagement.Infrastructure.Configuration\\InventoryManagement.Infrastructure.Configuration.csproj"
+            "G:\\PROJECT\\.net core\\HomeShop_Project_Folder\\Code\\HomeShop\\InventoryManagement.Configuration\\InventoryManagement.Configuration.csproj": {
+              "projectPath": "G:\\PROJECT\\.net core\\HomeShop_Project_Folder\\Code\\HomeShop\\InventoryManagement.Configuration\\InventoryManagement.Configuration.csproj"
             },
             "G:\\PROJECT\\.net core\\HomeShop_Project_Folder\\Code\\HomeShop\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj": {
               "projectPath": "G:\\PROJECT\\.net core\\HomeShop_Project_Folder\\Code\\HomeShop\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj"

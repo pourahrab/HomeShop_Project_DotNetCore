@@ -1,6 +1,5 @@
 using System.Collections.Generic;
 using DiscountManagement.Application.Contract.ColleagueDiscount;
-using DiscountManagement.Application.Contract.CustomerDiscount;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
